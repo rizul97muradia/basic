@@ -1,0 +1,10 @@
+python
+26/3/19installation and basics
+27/3/19
+evaluation
+28/3/19
+list in python
+range=
+1 arg  (5)ending
+2 arg(2,9)starting,ending
+3 arg(30,0,5)starting,ending,difference
